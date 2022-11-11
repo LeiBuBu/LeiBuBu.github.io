@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-11T11:19:53.028Z</updated>
+  <updated>2022-11-11T11:38:18.553Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>搭建博客</title>
+    <link href="http://example.com/2022/11/11/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://example.com/2022/11/11/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2022-11-11T11:29:09.000Z</published>
+    <updated>2022-11-11T11:38:18.553Z</updated>
+    
+    <content type="html"><![CDATA[<p>目前搭建博客，发现git部署文件到github上是异常的脆弱，极易崩…起码我的是这样。</p><p><code>ssh-agent bash</code>  然后  <code>ssh-add</code>,接着 <code>hexo clean,hexo g,hexo d</code>.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;目前搭建博客，发现git部署文件到github上是异常的脆弱，极易崩…起码我的是这样。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ssh-agent bash&lt;/code&gt;  然后  &lt;code&gt;ssh-add&lt;/code&gt;,接着 &lt;code&gt;hexo clean,hexo g,hexo </summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title></title>
