@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>测试2</title>
+    <url>/2022/11/12/%E6%B5%8B%E8%AF%952/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>测试2目前稳定...</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>搭建博客</title>
     <url>/2022/11/11/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<p>目前搭建博客，发现git部署文件到github上是异常的脆弱，极易崩…起码我的是这样。</p>
