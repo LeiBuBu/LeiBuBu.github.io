@@ -1,7 +1,7 @@
+http://example.com/categories/index.html
 http://example.com/about/index.html
 http://example.com/repository/index.html
 http://example.com/tags/index.html
-http://example.com/categories/index.html
 http://example.com/2022/11/12/%E6%B5%8B%E8%AF%952/
 http://example.com/2022/11/12/%E5%9B%BE%E7%89%87%E6%98%BE%E7%A4%BA%E6%B5%8B%E8%AF%95/
 http://example.com/2022/11/11/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/
