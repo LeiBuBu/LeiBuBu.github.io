@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>搭建博客</title>
-    <url>/2022/11/11/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p>目前搭建博客，发现git部署文件到github上是异常的脆弱，极易崩…起码我的是这样。</p>
-<p><code>ssh-agent bash</code>  然后  <code>ssh-add</code>,接着 <code>hexo clean,hexo g,hexo d</code>.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>图片显示测试</title>
     <url>/2022/11/12/%E5%9B%BE%E7%89%87%E6%98%BE%E7%A4%BA%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<h3 id><a href="#" class="headerlink" title></a></h3><h3 id="-1"><a href="#-1" class="headerlink" title></a></h3><h3 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h3><p><img src="/2022/11/12/%E5%9B%BE%E7%89%87%E6%98%BE%E7%A4%BA%E6%B5%8B%E8%AF%95/image-20221112113923173.png" alt="image-20221112113923173"></p>
@@ -17,19 +10,19 @@
       </tags>
   </entry>
   <entry>
-    <title>测试2</title>
-    <url>/2022/11/12/%E6%B5%8B%E8%AF%952/</url>
-    <content><![CDATA[<h3 id="标题1"><a href="#标题1" class="headerlink" title="标题1"></a>标题1</h3><p>测试2目前稳定…</p>
-<p><img src="/2022/11/12/%E6%B5%8B%E8%AF%952/image-20221112112457692.png" alt="image-20221112112457692"></p>
+    <title>搭建博客</title>
+    <url>/2022/11/11/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>目前搭建博客，发现git部署文件到github上是异常的脆弱，极易崩…起码我的是这样。</p>
+<p><code>ssh-agent bash</code>  然后  <code>ssh-add</code>,接着 <code>hexo clean,hexo g,hexo d</code>.</p>
 ]]></content>
-      <tags>
-        <tag>测试</tag>
-      </tags>
   </entry>
   <entry>
-    <title></title>
-    <url>/2022/11/11/%E6%B5%8B%E8%AF%95Test/%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<h1 id="测试标题"><a href="#测试标题" class="headerlink" title="测试标题"></a>测试标题</h1><p>Testing…</p>
+    <title>Hello world</title>
+    <url>/2022/11/26/Hello-world/</url>
+    <content><![CDATA[<h1 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h1><p>   前几周花了两三天使用hexo+github搭建的博客，最初是因为看到同学有一个可以记录自己技术日志的地方觉得很酷，自己也搭起来玩一下。但是，说正经的，既然有了一个自己的地方，还是要写一点东西总结总结啥的，不敢说见识很深，就记录一下自己的学习吧！借稚晖君大佬的一句话，十年饮冰，难凉热血。</p>
 ]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
   </entry>
 </search>
