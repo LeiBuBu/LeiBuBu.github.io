@@ -20,6 +20,13 @@
       </tags>
   </entry>
   <entry>
+    <title>搭建博客</title>
+    <url>/2022/11/11/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>目前搭建博客，发现git部署文件到github上是异常的脆弱，极易崩…起码我的是这样。</p>
+<p><code>ssh-agent bash</code>  然后  <code>ssh-add</code>,接着 <code>hexo clean,hexo g,hexo d</code>.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello world</title>
     <url>/2022/11/26/Hello-world/</url>
     <content><![CDATA[<p>   基于hexo+github所搭建的个人博客，总结技术日志等。</p>
@@ -27,12 +34,5 @@
       <tags>
         <tag>个人</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>搭建博客</title>
-    <url>/2022/11/11/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p>目前搭建博客，发现git部署文件到github上是异常的脆弱，极易崩…起码我的是这样。</p>
-<p><code>ssh-agent bash</code>  然后  <code>ssh-add</code>,接着 <code>hexo clean,hexo g,hexo d</code>.</p>
-]]></content>
   </entry>
 </search>
