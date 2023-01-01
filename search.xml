@@ -19,6 +19,13 @@
       </tags>
   </entry>
   <entry>
+    <title>搭建博客</title>
+    <url>/2022/11/11/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>目前搭建博客，发现git部署文件到github上是异常的脆弱，极易崩…起码我的是这样。</p>
+<p><code>ssh-agent bash</code>  然后  <code>ssh-add</code>,接着 <code>hexo clean,hexo g,hexo d</code>.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>学习QT</title>
     <url>/2023/01/01/%E5%AD%A6%E4%B9%A0QT/</url>
     <content><![CDATA[<p>​       Qt是一个跨平台的C++图形用户界面应用程序框架，1991年由奇趣科技开发。基于其成功开发的产品有：WPS Office办公软件、谷歌地图等。</p>
@@ -27,12 +34,5 @@
       <tags>
         <tag>嵌入式</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>搭建博客</title>
-    <url>/2022/11/11/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p>目前搭建博客，发现git部署文件到github上是异常的脆弱，极易崩…起码我的是这样。</p>
-<p><code>ssh-agent bash</code>  然后  <code>ssh-add</code>,接着 <code>hexo clean,hexo g,hexo d</code>.</p>
-]]></content>
   </entry>
 </search>
