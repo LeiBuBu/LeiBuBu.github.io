@@ -10,6 +10,15 @@
       </tags>
   </entry>
   <entry>
+    <title>图片显示</title>
+    <url>/2022/11/12/%E5%9B%BE%E7%89%87%E6%98%BE%E7%A4%BA%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<p><img src="/2022/11/12/%E5%9B%BE%E7%89%87%E6%98%BE%E7%A4%BA%E6%B5%8B%E8%AF%95/image-20221112113923173.png" alt="image-20221112113923173"></p>
+]]></content>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>学习QT</title>
     <url>/2023/01/01/%E5%AD%A6%E4%B9%A0QT/</url>
     <content><![CDATA[<p>​       Qt是一个跨平台的C++图形用户界面应用程序框架，1991年由奇趣科技开发。基于其成功开发的产品有：WPS Office办公软件、谷歌地图等。</p>
@@ -25,14 +34,5 @@
     <content><![CDATA[<p>目前搭建博客，发现git部署文件到github上是异常的脆弱，极易崩…起码我的是这样。</p>
 <p><code>ssh-agent bash</code>  然后  <code>ssh-add</code>,接着 <code>hexo clean,hexo g,hexo d</code>.</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>图片显示</title>
-    <url>/2022/11/12/%E5%9B%BE%E7%89%87%E6%98%BE%E7%A4%BA%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<p><img src="/2022/11/12/%E5%9B%BE%E7%89%87%E6%98%BE%E7%A4%BA%E6%B5%8B%E8%AF%95/image-20221112113923173.png" alt="image-20221112113923173"></p>
-]]></content>
-      <tags>
-        <tag>教程</tag>
-      </tags>
   </entry>
 </search>
